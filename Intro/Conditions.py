@@ -17,4 +17,4 @@ if name is "Raghu":
 elif name is "Lucy":
     print("Hey hey, LUCEYYYYY")
 else:
-    print("Hey there!")
+    print("Hey there! please sign up for the site")
