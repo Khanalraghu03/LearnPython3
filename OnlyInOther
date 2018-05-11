@@ -1,4 +1,4 @@
-This file is located inside the other branch and is not found in master branch.
+This file is located NOT inside the other branch and is found in master branch now since we merge it.
 
 
 Now this file has been merged to the master
@@ -6,4 +6,5 @@ Now this file has been merged to the master
 So it is accessable in the master branch as well as the other branch.
  Super Cool!
 
-Added "Some more stuff" --> Issue 1: Fixed!!
+//Added "Some more stuff" --> Issue 1: Fixed!!
+//Corrected the line 1 sentences.
